@@ -88,8 +88,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 // RGB 配置
 #define LED_RGB_CC // 是否为共阴LED
-#define LED_RGB_R 3
-#define LED_RGB_G 4
+#define LED_RGB_R 4
+#define LED_RGB_G 3
 #define LED_RGB_B 5
 #define RGB_LIGHT_ANIMATIONS
 
